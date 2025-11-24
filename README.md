@@ -1,2 +1,2 @@
-# CapraMind
-LLM for the dairy goat industry
+# CapraData
+Data collection for CapraMind.
