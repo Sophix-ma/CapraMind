@@ -1,0 +1,6 @@
+PySide6
+PyPDF2
+pdfplumber
+crawl4ai
+openai
+pandas
